@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Conference-App</string>
+    <string name="title_txt_1">PPG International Conference 2017</string>
+    <string name="title_txt_2">Gender Mainstreaming in Politics, Administration and Development in South Asia and Beyond</string>
+    <string name="title_txt_details">Public Policy and Governance (PPG) Program under the Department of Political Science and Sociology, North South University, Bangladesh is the lead organizer of this conference. PPG is an international program in collaboration with Department of Administration and Organization Theory, University of Bergen, Norway; Central Department of Public Administration, Tribhuvan University, Nepal; and University of Peradeniya, Sri Lanka.</string>
+    <string name="conference_date">November 17-18 , 2017</string>
 </resources>
