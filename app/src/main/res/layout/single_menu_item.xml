@@ -8,17 +8,21 @@
     android:padding="5dp"
     android:weightSum="1">
 
-    <ImageView
-        android:id="@+id/imageitem"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        app:srcCompat="@android:drawable/ic_menu_share"
-        android:layout_weight="0.04" />
-    <TextView
-        android:id="@+id/textitem"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:paddingTop="5dp"
-        android:text="TextView"
-        android:layout_weight="0.96" />
+
+        <ImageView
+            android:id="@+id/imageitem"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@android:drawable/ic_menu_share"
+            android:layout_weight="0.04" />
+        <TextView
+            android:id="@+id/textitem"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="5dp"
+            android:text="TextView"
+            android:layout_weight="0.96" />
+
+
+
 </LinearLayout>

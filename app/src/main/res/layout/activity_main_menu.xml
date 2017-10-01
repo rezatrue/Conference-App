@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context="android.reza.com.conference_app.MainMenuActivity">
 
+
     <android.support.v7.widget.RecyclerView
         android:id="@+id/menuRecycleListView"
         android:layout_width="wrap_content"
