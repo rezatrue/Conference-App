@@ -26,8 +26,11 @@ public class MainMenuActivity extends AppCompatActivity{
         LinearLayoutManager llm = new LinearLayoutManager(this);
         menuRecycleView.setLayoutManager(llm);
         menuRecycleView.setAdapter(menuAdapter);
-        // menuRecycleListView
+
+
     }
+
+
 
 
 }
